@@ -1,0 +1,43 @@
+body {
+    font-family:"trebuchet ms",sans-serif;
+    font-size:90%;
+    }
+   form {
+    background-color:#FAFAFA;
+    padding:10px;
+    width:280px;
+    }
+   fieldset {
+    padding:0 20px 20px 20px;
+    margin-bottom:10px;
+    margin-top: 10px;
+    border:1px solid #DF3F3F;
+    }
+   legend {
+    color:#DF3F3F;
+    font-weight:bold;
+    font-size: 30px
+    }
+ 
+   input{
+    padding:8px;
+    margin: 8px;
+    border:1px solid #F5C5C5;
+    border-radius:5px;
+    width:200px;
+    box-shadow:1px 1px 2px #C0C0C0 inset;
+    background-color:#FFF3F3;
+    }
+  
+   input[type=submit]{
+    width:100px;
+    margin-left:10px;
+    box-shadow:1px 1px 1px #D83F3D;
+    cursor:pointer;
+    }
+    input[type=file]{
+        width:250px;
+        margin-left:10px;
+        box-shadow:1px 1px 1px #D83F3D;
+        cursor:pointer;
+        }
